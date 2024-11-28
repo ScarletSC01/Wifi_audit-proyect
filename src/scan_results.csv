@@ -1,0 +1,31 @@
+SSID,BSSID,Canal,Encriptación
+WIFI_ALUM,A0:25:D7:04:14:A0,2.412 GHz (Channel 1),on
+WIFI_ADMIN,A0:25:D7:04:14:A1,2.412 GHz (Channel 1),on
+,A0:25:D7:04:14:A2,2.412 GHz (Channel 1),on
+WIFI_VISITAS,A0:25:D7:04:14:A3,2.412 GHz (Channel 1),on
+Stefany' Galaxy A54 5G,4A:23:D0:23:AD:FA,2.437 GHz (Channel 6),on
+WIFI_ALUM,44:48:C1:5D:0B:40,2.462 GHz (Channel 11),on
+WIFI_ADMIN,44:48:C1:5D:0B:41,2.462 GHz (Channel 11),on
+,44:48:C1:5D:0B:42,2.462 GHz (Channel 11),on
+WIFI_VISITAS,44:48:C1:5D:0B:43,2.462 GHz (Channel 11),on
+,44:48:C1:5D:0B:44,2.462 GHz (Channel 11),on
+Redmi note10 pro,F2:F3:98:74:2C:1A,2.462 GHz (Channel 11),on
+,B8:37:B2:F3:FB:C2,2.462 GHz (Channel 11),on
+WIFI_VISITAS,B8:37:B2:F3:FB:C3,2.462 GHz (Channel 11),on
+Arii\xF0\x9F\x8C\xB9,BC:2E:F6:6A:8F:46,2.412 GHz (Channel 1),on
+WIFI_ADMIN,24:F2:7F:7B:BF:81,2.412 GHz (Channel 1),on
+,24:F2:7F:7B:BF:82,2.412 GHz (Channel 1),on
+WIFI_VISITAS,24:F2:7F:7B:BF:83,2.412 GHz (Channel 1),on
+,B8:37:B2:F3:FB:C4,2.462 GHz (Channel 11),on
+WIFI_ALUM,B8:37:B2:F3:FB:C0,2.462 GHz (Channel 11),on
+WIFI_ADMIN,B8:37:B2:F3:FB:C1,2.462 GHz (Channel 11),on
+,24:F2:7F:7B:BF:84,2.412 GHz (Channel 1),on
+,A0:25:D7:04:14:A4,2.412 GHz (Channel 1),on
+WIFI_ADMIN,44:48:C1:5D:0B:81,2.412 GHz (Channel 1),on
+,44:48:C1:5D:0B:82,2.412 GHz (Channel 1),on
+,44:48:C1:5D:0B:84,2.412 GHz (Channel 1),on
+WIFI_ALUM,24:F2:7F:7B:BF:80,2.412 GHz (Channel 1),on
+K9,B2:5F:16:4D:5C:20,2.437 GHz (Channel 6),on
+,A0:25:D7:03:8D:A4,2.437 GHz (Channel 6),on
+WIFI_ALUM,A0:25:D7:03:8D:A0,2.437 GHz (Channel 6),on
+WIFI_ADMIN,A0:25:D7:03:8D:A1,2.437 GHz (Channel 6),on
